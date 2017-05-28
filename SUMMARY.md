@@ -6,3 +6,5 @@
   - [カリーとハワードの対応（correspondence）]()
 - [設定](design/README.md)
   - [登場人物](design/character.md)
+  - [ルビ](design/ruby.md)
+
