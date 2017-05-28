@@ -1,0 +1,16 @@
+{
+  "name": "MonadBuster",
+  "private": true,
+  "version": "0.0.1",
+  "description": "世界は名もなき型達の戦場",
+  "scripts": {
+    "prepublish": "gitbook install",
+    "build": "gitbook build ./",
+    "pdf": "gitbook pdf ./ ./book.pdf",
+    "epub": "gitbook epub ./ ./book.epub"
+  },
+  "devDependencies": {
+    "gitbook-cli": "^2.3.0",
+    "gitbook-plugin-japanese-support": "0.0.1"
+  }
+}

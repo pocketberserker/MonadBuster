@@ -1,0 +1,11 @@
+{
+  "gitbook": ">=3.0.0",
+  "title": "Monad Buster",
+  "structure": {
+    "readme": "README.md",
+    "summary": "SUMMARY.md"
+  },
+  "plugins": [
+    "japanese-support"
+  ]
+}
