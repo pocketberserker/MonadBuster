@@ -4,6 +4,7 @@
   - [それは象であり、箱であり──]()
   - [未来（継続）を動かす者]()
   - [カリーとハワードの対応（correspondence）]()
+  - [我思う、故に我（再帰）あり]()
 - [設定](design/README.md)
   - [登場人物](design/character.md)
   - [ルビ](design/ruby.md)
