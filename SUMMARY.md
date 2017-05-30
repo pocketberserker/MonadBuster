@@ -6,6 +6,7 @@
   - [カリーとハワードの対応（correspondence）]()
   - [我思う、故に我（再帰）あり]()
   - [アヒルのように鳴いた者]()
+  - [牢獄（インターフェイス）人形は謳う、特別に（Ad hoc）]()
 - [設定](design/README.md)
   - [登場人物](design/character.md)
   - [ルビ](design/ruby.md)
