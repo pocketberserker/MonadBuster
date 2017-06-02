@@ -2,6 +2,7 @@
   - [世界（コンパイラ）が観測した敗者（エラー）の一幕](src/error.md)
   - [魔女（null）の嘆きと存在証明（Option）](src/null.md)
   - [象と、箱と──](src/monad.md)
+  - [右手(Right)に剣を、左手(Left)に災いを 1](src/either_1.md)
   - [未来（継続）を動かす者]()
   - [カリーとハワードの対応（correspondence）]()
   - [我思う、故に我（再帰）あり]()
